@@ -13,7 +13,7 @@ hhs@debimspecialist.nl
 
 **doelgroep:**
 
-Elke modelleur en projectmanager
+Elke modelleur, projectmanager en opdrachtgever
 
 Deze pagina is een weergave van de open source ontwikkelomgeving op github. U kunt een bijdrage leveren door een ‘pull request’ te sturen op [github](https://github.com/BIM-Handboek-NL/Werken-met-disciplinemodellen), of het aanspreekpunt van deze pagina te benaderen via e-mail.
 
@@ -23,7 +23,7 @@ Een BIM model wordt vaak in eerste beeldvorming gezien als 1 bestand. Hieronder 
 Dit hoofdstuk wil middels “Best practices” rondom het samenwerken aan een gezamenlijk BIM model, bestaande uit diverse BIM discipinemodellen.
 
 ###Onjuist beeld van BIM in een project:
-•	Iedereen werkt in zelfde bestand
+•	Iedereen werkt in hetzelfde bestand
 •	Iedereen werkt met dezelfde softwareapplicatie, zelfde versie daarvan, met zelfde instellingen.
 •	ICT & Performance lijken in eerste instantie geen probleem
 •	Iedereen ziet alles, continue “real time” ontwikkelen, zodra een andere discipline iets doet
@@ -36,8 +36,8 @@ Uit diverse praktijkprojecten blijkt;
 -	Dat het soms niet wenselijk is om alles real-time te delen (Als voorbeeld een architect die nog bezig is alternatieve scenario’s te ontwerpen, deze informatie is dan waarschijnlijk nog niet nodig voor andere disciplines)
 -	Het qua performance beter is om met (meerdere) kleinere bestanden te hebben, en alleen die bestanden te openen die relevant zijn
 -	Het qua verantwoordelijkheid en juridische aspecten het in meeste gevallen beter is om duidelijke afbakening te hebben wie verantwoordelijk is over opgebouwde informatie en de extracten (b.v. de afgeleide tekeningen) daarvan.
--	Niet alle data ontstaat, of wordt ontsloten via (BIM) CAD applicatie
--	Niet alle project betrokken zijn even ervaren en deskundig
+-	Niet alle data ontstaat, of wordt ontsloten via een (BIM) CAD applicatie
+-	Niet alle bij het project betrokken deelnemers zijn even ervaren en deskundig
 -	Niet alle partijen hebben alle informatie nodig. Vaak is een “subset” aan informatie voldoende.
 -	Etc.
 -	Etc.
@@ -64,5 +64,5 @@ Een andere manier is om een modelserver te gebruiken voor deze centrale opslag v
     Federated Model means a Model consisting of linked but distinct component Models, drawings derived from the Models, texts, and other data sources that do not lose their identity or integrity by being so linked, so that change to one component Model in a Federated Model does not create a change in another component Model in that Federated Model.” 
     Bron:  http://www.lexology.com/library/detail.aspx?g=eaf3ba31-fa41-4e46-b60f-5bac1963f527 
 
-Dit totaalmodel kan worden gebruikt voor visualisatie, Clashcontrole, hoeveelheden, etc. etc.
+Dit totaalmodel kan worden gebruikt voor visualisatie, clashcontrole, hoeveelheden, etc. etc.
 
